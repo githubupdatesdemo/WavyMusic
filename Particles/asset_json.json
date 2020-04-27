@@ -365,7 +365,7 @@
         "Theme_Name": "HappyMusic",
         "Theme_Info": "HappyMusic",
         "GameobjectName": "104",
-        "Is_Preimum": "1",
+        "Is_Preimum": "0",
         "Theme_Bundle": "asset_bundle/HappyMusic.unity3d",
         "Thumnail_Small": "HappyMusic.png",
         "is_From_Asset": true
