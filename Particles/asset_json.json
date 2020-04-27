@@ -387,7 +387,7 @@
         "Theme_Name": "SuperMom",
         "Theme_Info": "SuperMom",
         "GameobjectName": "",
-        "Is_Preimum": "1",
+        "Is_Preimum": "0",
         "Theme_Bundle": "Neon/SuperMom.unity3d",
         "Thumnail_Small": "Neon/SuperMom.png",
         "is_From_Asset": false
