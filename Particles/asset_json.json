@@ -365,7 +365,7 @@
         "Theme_Name": "HappyMusic",
         "Theme_Info": "HappyMusic",
         "GameobjectName": "104",
-        "Is_Preimum": "0",
+        "Is_Preimum": "1",
         "Theme_Bundle": "asset_bundle/HappyMusic.unity3d",
         "Thumnail_Small": "HappyMusic.png",
         "is_From_Asset": true
@@ -387,7 +387,7 @@
         "Theme_Name": "SuperMom",
         "Theme_Info": "SuperMom",
         "GameobjectName": "",
-        "Is_Preimum": "0",
+        "Is_Preimum": "1",
         "Theme_Bundle": "Neon/SuperMom.unity3d",
         "Thumnail_Small": "Neon/SuperMom.png",
         "is_From_Asset": false
