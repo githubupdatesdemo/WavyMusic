@@ -46,10 +46,10 @@
         "Cat_Id": 1,
         "Theme_Name": "RoundBorder",
         "Theme_Info": "RoundBorder",
-        "GameobjectName": "1244222",
+        "GameobjectName": "",
         "Is_Preimum": "0",
         "Theme_Bundle": "General/RoundBorder.unity3d",
-		"Bundle_Size": "",
+		"Bundle_Size": "1244222",
         "Thumnail_Small": "General/RoundBorder.png",
         "is_From_Asset": false
       },
