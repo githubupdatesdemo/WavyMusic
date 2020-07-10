@@ -688,7 +688,7 @@
         "Is_Preimum": "0",
         "Theme_Bundle": "Neon/Zigzag.unity3d",
 		"Bundle_Size": "485471",
-        "Thumnail_Small": "Neon/Zigza.png",
+        "Thumnail_Small": "Neon/Zigzag.png",
         "is_From_Asset": false
       }
     ]
