@@ -1,5 +1,5 @@
 {
-"link": "https://raw.githubusercontent.com/githubupdatesdemo/WavyMusic/master/Particles/v1.6/",
+"link": "https://raw.githubusercontent.com/githubupdatesdemo/WavyMusic/master/Particles/v1.7/",
 "category": [
 {
     "Id": 1,
